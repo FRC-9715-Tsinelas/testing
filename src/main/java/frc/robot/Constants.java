@@ -16,5 +16,7 @@ public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
     public static final int David = Integer.MAX_VALUE;
+    public static final int Carson = 2;
+    public static final int Amanda = 3;
   }
 }
