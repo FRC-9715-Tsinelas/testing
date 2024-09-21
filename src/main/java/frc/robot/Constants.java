@@ -19,5 +19,6 @@ public final class Constants {
     public static final int Carson = 2;
     public static final int Amanda = 3;
     public static final int Sammy = 4;
+    public static final int Stella = 5;
   }
 }
