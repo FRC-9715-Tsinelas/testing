@@ -20,5 +20,6 @@ public final class Constants {
     public static final int Amanda = 3;
     public static final int Sammy = 4;
     public static final int Stella = 5;
+    public static final int Daniel = 6;
   }
 }
